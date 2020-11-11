@@ -37,7 +37,7 @@
 
        $ python2 Dragon.py
 
-       Enter Code:  [![Github](https://img.shields.io/badge/Github-Pabel--Gazi-green?style=for-the-badge&logo=github)](https://github.com/Pabel-Gazi)
+       Enter Code:  
 
 ## Screenshoot
 
@@ -50,6 +50,7 @@
 [![Github](https://img.shields.io/badge/Github-Pabel--Gazi-green?style=for-the-badge&logo=github)](https://github.com/Pabel-Gazi)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/pabel.Gazi.73345)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/pabel.Gazi.73345)
+
 <a href="https://www.youtube.com/channel/UCrgBg7jFJkNWYO1BEG7NQ2Q"><img title="Youtube" src="https://img.shields.io/badge/YOUTUBE-%40D-DRAGON-red?style=flat-square&logo=youtube"></a>
 
 ## Warning
