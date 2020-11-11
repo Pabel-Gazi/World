@@ -37,7 +37,7 @@
 
        $ python2 Dragon.py
 
-       Enter Code:  <a href="https://www.youtube.com/channel/UCrgBg7jFJkNWYO1BEG7NQ2Q"><img title="VIEW" src="https://img.shields.io/badge/YOUTUBE-%40D-DRAGON-red?style=flat-square&logo=youtube"></a>
+       Enter Code:  [![Github](https://img.shields.io/badge/Github-Pabel--Gazi-green?style=for-the-badge&logo=github)](https://github.com/Pabel-Gazi)
 
 ## Screenshoot
 
